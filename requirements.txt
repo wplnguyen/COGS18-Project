@@ -1,0 +1,4 @@
+# If your project has any requirements not included in anaconda, include them here
+PyPDF2 #necessary to read pdf files
+python-docx #necessary to read docx files
+Sample text files are included in archive.zip for in text sorting.
